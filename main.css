@@ -1,0 +1,9 @@
+body{
+  background: #fff;     /*red, blue, yellow,*/
+  border: 0.0625rem solid #dadce0
+  color black;         /* red, blue, yellow,*/
+  font-size: 50px;      /* 0px - 100px and beyong*/
+  font-weight: Bold;     /* Lighter, normal, bold */
+  text-align: left;      /* from 0px and upwards */
+
+}
